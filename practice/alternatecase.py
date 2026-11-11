@@ -15,11 +15,3 @@ def alternatecase(input):
 def alphabetpostion(input):
     values = {"A":1, "B":2}
     print(values.get("B"))
-
-def removevowel(input):
-    input = input.split(" ")
-    for x in input:
-        if input.find("a",0) or input.find("i",0) or input.find("o",0) or input.find("u",0):
-
-input = "123"
-input.replace
