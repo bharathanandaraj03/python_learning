@@ -15,3 +15,5 @@ def alternatecase(input):
 def alphabetpostion(input):
     values = {"A":1, "B":2}
     print(values.get("B"))
+
+    values.p
